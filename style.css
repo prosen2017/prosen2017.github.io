@@ -8,3 +8,19 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {
+  color: red;
+}
+h4 {
+  color: purple;
+}
+#summary {
+  color: green;
+}
+.skills_hobbies {
+  color: orange;
+}
+#school {
+  text-shadow: 1px 1px 1px black;
+  text-decoration: underline;
+  }
